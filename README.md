@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently a student at ***UEES University***
 - 💡 I'm currently learning some programing languages like Python, Java
-  - Web development HTML, CSS, Django, React
-  - Databases: PostgreSQL
+  - Web development like HTML, CSS, Django, React
+  - Databasesl like PostgreSQL
 - 💻 I enjoy working on projects and collaborating with others.
 - - 📫 How to reach me: ..
   - Email: asvega06@gmail.com
